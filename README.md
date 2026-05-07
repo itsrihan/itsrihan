@@ -12,35 +12,32 @@
 
 <!-- Tech stack section -->
 <p align="center" style="white-space: nowrap;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none; color:inherit;">
+  <!-- Group 1: JavaScript & Python -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="vertical-align:middle;" />
-  
-
-  <a href="https://www.python.org" target="_blank" style="text-decoration:none; color:inherit;">
+  </a>
+  <a href="https://www.python.org" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="vertical-align:middle;" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://pytorch.org/" target="_blank" style="text-decoration:none; color:inherit;">
+  <!-- Group 2: PyTorch & TensorFlow -->
+  <a href="https://pytorch.org/" target="_blank" style="text-decoration:none;">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" style="vertical-align:middle;" />
-  
-
-  <a href="https://www.tensorflow.org" target="_blank" style="text-decoration:none; color:inherit;">
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" style="text-decoration:none;">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" style="vertical-align:middle;" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://reactjs.org/" target="_blank" style="text-decoration:none; color:inherit;">
+  <!-- Group 3: React & Node.js -->
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" style="vertical-align:middle;" />
-  
-
-  <a href="https://nodejs.org" target="_blank" style="text-decoration:none; color:inherit;">
+  </a>
+  <a href="https://nodejs.org" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="vertical-align:middle;" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration:none; color:inherit;">
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Group 4: Git -->
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration:none;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="vertical-align:middle;" />
   </a>
 </p>
-
-
