@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="10">
+  <table border="0" cellspacing="0" cellpadding="20">
     <tr>
       <td align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a>
